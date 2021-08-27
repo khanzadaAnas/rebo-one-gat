@@ -1,0 +1,102 @@
+.banner {
+    background: url(assets/BG.png) no-repeat;
+    width: 100%;
+    position: relative;
+}
+
+.banner .align-items-center {
+    min-height: 500px;
+}
+
+.header {
+    padding-top: 22px;
+    padding-bottom: 28px;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.spin {
+    padding: 80px 0 0 0 !important;
+}
+
+.half-section {
+    overflow: hidden;
+}
+
+.awsome-feature .align-items-center {
+    min-width: 500px;
+}
+
+.awsome-feature h5 {
+    color: #1f2f42;
+    margin: 20px;
+}
+
+.awsome-feature p {
+    color: #c6c9cf;
+    margin-bottom: 50px;
+}
+
+.our-user p {
+    color: #c6c9cf
+}
+
+.spin {
+    background: url(assets/bg-2.png) no-repeat;
+    width: 100%;
+}
+
+.spin .align-items-center {
+    min-height: 500px;
+}
+
+hr.short {
+    width: 100px;
+    border-color: #00c997;
+    border-width: 2px;
+}
+
+hr.shortage {
+    width: 50px;
+    border-color: #00c997;
+    border-width: 2px;
+}
+
+.spin .btn-lg {
+    padding: 10px 50px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.btn-outline-success {
+    border-color: #fff;
+    color: #fff;
+    font-size: 18px;
+}
+
+.client-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 15px 0;
+    background-color: #050608b2;
+    text-align: center;
+}
+
+.client-list ul li {
+    display: inline;
+    margin: 30px;
+}
+
+.client-list {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+hr .dot {
+    width: 100px;
+    border-width: 2px;
+    border: 1px dotted red;
+}
